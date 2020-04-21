@@ -1,0 +1,59 @@
+
+
+* {
+	text-align: right;
+}
+body {
+	background-image: url(https://thumbs.dreamstime.com/b/art-colour-bokeh-light-background-abstract-art-design-background-light-texture-abstract-light-bokeh-backgrounds-art-colour-117685055.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: #dd2c00;
+	text-align: center;
+	border: 5px solid #ff5722;
+	cursor: pointer;
+}
+
+p {
+	line-height: 5px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+	font-family: 'Baloo Thambi 2', cursive;
+}
+
+p {
+	color:green;
+}
+
+img {
+	float:right;
+}
+
+footer {
+	clear:both;
+	text-align: center;
+}
+li {
+	list-style: none;
+	display: inline-block;
+
+}
+
+.webtext:first-child {
+	border: 5px dashed green;
+
+}
+
+.active {
+	text-color: red;
+}
+
+#div1 {
+	background: rgba(0,0,255, 0.2);
+}
+
+#div2 {
+	background: rgba(255,0,0, 0.2);
+}
